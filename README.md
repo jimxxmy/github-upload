@@ -1,3 +1,3 @@
-#Fetching values and storing data into MySQL
+#FetchingvaluesandstoringdataintoMySQL
 
 JSP + Hibernate + MySQL
