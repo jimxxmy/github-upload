@@ -1,2 +1,3 @@
-# sum2
- JSP + Hibernate + MySQL
+#Fetching values and storing data into MySQL
+
+JSP + Hibernate + MySQL
